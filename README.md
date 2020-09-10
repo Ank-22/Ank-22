@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-# 🙋🏻‍♂️Hi there! I am `Ank221199`
+# 👨🏻‍💻Hi there! I am `Ank221199`
