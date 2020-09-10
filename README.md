@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ank221199&count_private=true&show_icons=true&theme=algolia)
 
-## Competencies
+## Skills & Toolkits
 
 ### Programming
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
