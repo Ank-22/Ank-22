@@ -1,5 +1,5 @@
 <!--
-**Ank221199/Ank221199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ank221199/Ank22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👨🏻‍💻Hi there! I am `Ank221199`
+# 👨🏻‍💻Hi there! I am `Ank22`
 ## About ME!
 
 
