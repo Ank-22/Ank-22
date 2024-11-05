@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ankit Sinha (`Ank22`)
 
 ## 🛠️ About Me
-I'm a dedicated Master of Science student in Artificial Intelligence at Northeastern University, with a strong foundation in computer science and a passion for Reinforcement Learning, machine learning, and systems optimization. I have hands-on experience in game development, software engineering, and machine learning projects, including developing predictive models for stock markets.
+I'm a dedicated Master of Science student in Artificial Intelligence at Northeastern University, with a strong foundation in computer science and a passion for Reinforcement Learning, machine learning, and systems optimization. I have hands-on experience in game development, software engineering, and machine learning projects, including developing predictive models.
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ank-22&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ank-22&layout=compact&theme=radical)
