@@ -6,6 +6,10 @@ I'm a dedicated Master of Science student in Artificial Intelligence at Northeas
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ank-22&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ank-22&layout=compact&theme=radical)
 
+
+### 👀 Visitor Count
+<img src="https://profile-counter.glitch.me/{Ank-22}/count.svg" alt="Ank-22 :: Visitor's Count" />
+
 ## ⚙️ Skills & Toolkits
 
 ### 🖥️ Programming Languages
@@ -42,15 +46,13 @@ I'm a dedicated Master of Science student in Artificial Intelligence at Northeas
 
 ### 🧠 Machine Learning Techniques
 - **Neural Networks**:
-  -
-    ![CNN](https://img.shields.io/badge/CNN-%232A2A2A?style=for-the-badge&logo=codeforces&logoColor=white)
+  - ![CNN](https://img.shields.io/badge/CNN-%232A2A2A?style=for-the-badge&logo=codeforces&logoColor=white)
     ![RNN](https://img.shields.io/badge/RNN-%232A2A2A?style=for-the-badge&logo=codeforces&logoColor=white)
     ![Autoencoder](https://img.shields.io/badge/Autoencoder-%232A2A2A?style=for-the-badge&logo=codeforces&logoColor=white)
     ![LSTM](https://img.shields.io/badge/LSTM-%232A2A2A?style=for-the-badge&logo=codeforces&logoColor=white)
 
 - **Reinforcement Learning**:
-  -
-    ![SARSA](https://img.shields.io/badge/SARSA-%23333333?style=for-the-badge&logo=codeforces&logoColor=white)
+  - ![SARSA](https://img.shields.io/badge/SARSA-%23333333?style=for-the-badge&logo=codeforces&logoColor=white)
     ![Q-Learning](https://img.shields.io/badge/Q--Learning-%23333333?style=for-the-badge&logo=codeforces&logoColor=white)
     ![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-%23333333?style=for-the-badge&logo=codeforces&logoColor=white)
     ![On-Policy](https://img.shields.io/badge/On--Policy-%23333333?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -59,7 +61,6 @@ I'm a dedicated Master of Science student in Artificial Intelligence at Northeas
 - **Decision Trees**
 - **Regression**
 
-
 ---
 
 ## 🚀 Current Endeavors
@@ -67,9 +68,11 @@ I'm a dedicated Master of Science student in Artificial Intelligence at Northeas
 - 🛠️ Working on a solo project exploring RL.
 - 🔍 Applying for roles in AI, with an interest in developing scalable and innovative solutions.
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ank-22&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Visit My Website
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankitsinha.net-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ankitsinha.net)
-
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ank22)
